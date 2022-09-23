@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Laravel, K8s, AWS**
 
-- 📫 How to reach me **dasanti_12@hotmail.com**
+- 📫 How to reach me **shurtado@ddoscom.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
