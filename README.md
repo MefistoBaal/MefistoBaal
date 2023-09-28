@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ddosfloodbaal" target="blank"><img src="https://img.shields.io/twitter/follow/ddosfloodbaal?logo=twitter&style=for-the-badge" alt="ddosfloodbaal" /></a> </p>
 
-- 🔭 I’m currently working on [Bitsports](https://bitsports.co/)
+- 🔭 I’m currently working on [DDOSCOM](https://ddoscom.tech/)
 
 - 🌱 I’m currently learning **Golang**
 
